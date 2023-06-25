@@ -35,7 +35,6 @@ _Use Latest Chrome/ Chromium Browsers/ Safari (mobile/ Tablets/ Desktop)_
   - [Diagonal Heuristic](http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html#diagonal-distance)
     - [Chebyshev distance](http://en.wikipedia.org/wiki/Chebyshev_distance)
     - [Octile distance](https://www.sciencedirect.com/science/article/pii/S1000936116301182)
-- [Best First Search](https://en.wikipedia.org/wiki/Best-first_search) (Next Update)
 
 ### Implemented Maze Algorithms
 
