@@ -1,5 +1,5 @@
 # Path Navigator - Graph Path Visualizer
-# PATH Exploring NAVIGATOR
+# [PATH Exploring NAVIGATOR](https://sainiayush.github.io/Path-Finder/)
 
 An easy to use Interactive Graph Path visualizer with batteries included to implement your own Algorithm Visualization.
 
